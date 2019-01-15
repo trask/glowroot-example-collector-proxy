@@ -23,7 +23,7 @@
     <dependency>
       <groupId>org.glowroot</groupId>
       <artifactId>glowroot-agent</artifactId>
-      <version>0.10.7</version>
+      <version>0.13.0</version>
       <scope>provided</scope>
     </dependency>
   </dependencies>
